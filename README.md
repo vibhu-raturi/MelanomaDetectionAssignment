@@ -1,6 +1,5 @@
 # Melanoma Detection Assignment
 > The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
-> ![image](https://user-images.githubusercontent.com/87073744/196589229-b9bdd1d8-dcf4-4c27-8729-d4d4283b891a.png)
 
 
 ## Table of Contents
@@ -30,7 +29,7 @@ The data set contains the following diseases:
 ## Conclusions
 - We have built 3 Models in this study
 - Model 3 gives us a decent accuracy on both train and validation dataset compared to other two Models
-- We can check the python script 'Vibhu_Dutt_Raturi_nn' to check how the issues related to Overfitting and Class Imbalance were resolved using Augmentation techniques and Augmentor library.
+- We can check the python script 'Vibhu_Dutt_Raturi_nn.ipynb' to check how the issues related to Overfitting and Class Imbalance were resolved using Augmentation techniques and Augmentor library.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
