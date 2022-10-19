@@ -29,7 +29,7 @@ The data set contains the following diseases:
 ## Conclusions
 - We have built 3 Models in this study
 - Model 3 gives us a decent accuracy on both train and validation dataset compared to other two Models
-- Please check the python script 'Vibhu_Dutt_Raturi_nn.ipynb' to check how the issues related to Overfitting and Class Imbalance were resolved using Augmentation techniques and Augmentor library.
+- Please gp through the python script 'Vibhu_Dutt_Raturi_nn.ipynb' to check how the issues related to Overfitting and Class Imbalance were resolved using Augmentation techniques and Augmentor library.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
